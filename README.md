@@ -15,6 +15,19 @@ StyleCop convention so that its portable to Rider as well as Visual Studio for
 Windows & Mac OS. **It does not work on VS Code as it doesn't support it as**
 **far as I am aware**
 
+## Installing this Package
+
+- Open your preferred command line window and navigate to the root of your unity
+project.
+- Navigate to the `Packages` folder.
+- Clone this repository as follows:
+
+```bash
+git clone https://github.com/ImLp/Unity-StyleCop
+```
+
+The package is now installed and ready to go.
+
 ## Using This Package
 
 After integrating this package to your project, it will automatically add itself
