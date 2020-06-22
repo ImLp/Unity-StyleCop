@@ -1,0 +1,8 @@
+{
+  "name": "com.stylecop.analyzer",
+  "description": "A package to easily add the Roslyn Stylecop.Analyzer package to an Unity project.",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "displayName": "StyleCop.Analyzer",
+  "hideInEditor": false
+}
